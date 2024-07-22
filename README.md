@@ -1,7 +1,7 @@
 # 👋 Hola, soy Mauricio Villegas
 ---
 
-![Banner](Mau-Vllgs_cvglmf)
+![Banner](https://asset.cloudinary.com/dzvkmpyov/a9c041a6c009d719917141b9e1a6b409)
 
 ## Español
 - 👀 Me interesa el desarrollo web, crear sitios web dinámicos y responsivos, y explorar nuevas tecnologías.
