@@ -1,4 +1,7 @@
-👋 Hola, soy Mauricio Villegas
+# 👋 Hola, soy Mauricio Villegas
+---
+
+![Banner](Mau-Vllgs_cvglmf)
 
 ## Español
 - 👀 Me interesa el desarrollo web, crear sitios web dinámicos y responsivos, y explorar nuevas tecnologías.
@@ -9,8 +12,6 @@
 - 😄 Pronombres: Él/Él
 - ⚡ Dato curioso: Soy un músico que ama tocar la guitarra. También disfruto jugar videojuegos en mi tiempo libre y me encantaría explorar diferentes partes del mundo algún día.
 - 💼 Aspiro a trabajar en una empresa que me ofrezca la oportunidad de seguir aprendiendo, con el objetivo final de convertirme en desarrollador senior.
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rock_st) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Axel.vllgs/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mauvllgs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauricio-villegas-63a308246/) 
@@ -28,12 +29,5 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields
 
-# 📊 GitHub Stats:
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=V-Mau&theme=tokyonight&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Mau&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-|---|---|
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
